@@ -1,5 +1,6 @@
 
-![download](https://github.com/user-attachments/assets/842a803d-1ad9-4139-92f9-5e923dda6f26)
+![images](https://github.com/user-attachments/assets/d74f6fd7-31e4-4e6b-98f5-16751ae6f97b)
+
 
 # App Rating Prediction: Analyzing Success Factors for Google Play Store
 
