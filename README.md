@@ -1,6 +1,7 @@
 
-# ![Uploading download.jpeg…]()
-App Rating Prediction: Analyzing Success Factors for Google Play Store
+![download](https://github.com/user-attachments/assets/842a803d-1ad9-4139-92f9-5e923dda6f26)
+
+#App Rating Prediction: Analyzing Success Factors for Google Play Store
 
 ## Introduction
 Imagine a feature in the Google Play Store that can boost promising apps based on predicted ratings, helping new developers reach larger audiences. The Google Play Store team is working to improve app visibility for top-rated apps by promoting them in the "Similar apps," "You might also like," and search results sections. But how can they predict which apps will succeed? This project uses data analytics to build a model that predicts app ratings, helping Google identify which apps deserve a boost in visibility.
