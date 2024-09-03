@@ -1,8 +1,9 @@
 
 <img src="https://github.com/user-attachments/assets/79462584-3a4a-4dc6-8b28-5256d755582c" alt="download" width="600"/>
 
-![Uploading secret-of-mobile-apps.jpg…]()
+![secret-of-mobile-apps](https://github.com/user-attachments/assets/f07cc4ec-af35-4ded-ada3-75101e419131)
 
+![Uploading secret-of-mobile-apps.jpg…]()
 
 # App Rating Prediction: Analyzing Success Factors for Google Play Store
 
